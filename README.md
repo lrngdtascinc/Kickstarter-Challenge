@@ -13,6 +13,6 @@
 #### Play Outcomes Based on Goal 
 The second analysis was done on the data based on the subcategory "Plays" to find out if there were any correlations between the goal for the kickstarter and the actual success of said kickstarter. What we saw here was a stronger success rate with lower fundraising goals, and a lower success rate with higher fundraising goals, as seen in the chart below.
    
-   ![Play Outcomes Based on Goal](https://github.com/lrngdtascinc/Kickstarter-Challenge/blob/main/Outcomes%20Based%20on%20Goal.png)
+   ![Play Outcomes Based on Goal](https://github.com/lrngdtascinc/Kickstarter-Challenge/blob/main/Outcome%20Based%20on%20Goal.png)
    
    
