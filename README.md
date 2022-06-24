@@ -14,5 +14,8 @@
 The second analysis was done on the data based on the subcategory "Plays" to find out if there were any correlations between the goal for the kickstarter and the actual success of said kickstarter. What we saw here was a stronger success rate with lower fundraising goals, and a lower success rate with higher fundraising goals, as seen in the chart below.
    
    ![Play Outcomes Based on Goal](https://github.com/lrngdtascinc/Kickstarter-Challenge/blob/main/Outcome%20Based%20on%20Goal.png)
+#### Challenges
+   One of the cahellenges I had specifically was overlooking and selecting the wrong cell ranges when using the "=COUNTIF" function to organize the successful, failed, and canceled fundraising campaigns by goal amount. It took me about an hour to realize this mistake, but once I caught it I was able to fix it relatively quickly. Another challenge I can see some people having when trying to organize the data, is remembering to manage your filters properly. I did remember to clear my filters when starting a new visualization but I can see how one might forget and start to stack filters.
    
+##
    
